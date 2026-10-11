@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "RTK Query Server State",
+    "slug": "rtk-query-server-state",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "sdkVersion": "54.0.0"
+  }
+}
